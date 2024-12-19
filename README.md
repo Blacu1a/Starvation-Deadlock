@@ -14,14 +14,8 @@ Project Files
 
 --
 How to Run the Programs
-
-1 Ensure you have Python 3.x installed on your system. Follow the steps below:
   
-  Clone the repository or download the project files.
-  git clone <your-github-repository-link>
-  cd <your-repository-folder>
-  
-2 Run the programs one by one:
+1 Run the programs one by one:
 
   To demonstrate deadlock:
   python deadlock_demo.py
